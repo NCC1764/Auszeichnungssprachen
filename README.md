@@ -26,11 +26,11 @@ translation: Deutsch  translations/German.md
 Definition Auszeichnungssprache
 -------------------------------
 
-<!-- style="background-color:rgba(57, 145, 147, 0.25); border-radius:10px; color:#000000; font-weight:600" -->
+<!-- style="background-color:rgba(57, 145, 147, 0.25); border-radius:10px; color:#000000; font-weight:400" -->
 > Eine Auszeichnungssprache (Markup Language) ist eine maschinenlesbare Sprache für die Gliederung und Formatierung von Texten und anderen Daten.
 
 Beispiele
-=========
+-------------------------------
 
 * SVG (Scalable Vector Graphics ) 
 * HTML (Hypertext Markup Language)
@@ -39,16 +39,16 @@ Beispiele
 
 ## SVG (Scalable Vector Graphics )
 
-<article>
 Definition Vektorgrafik
+-------------------------------
 
-<!-- style="background-color:rgba(57, 145, 147, 0.25); border-radius:10px; color:#000000; font-weight:600" -->
+<!-- style="background-color:rgba(57, 145, 147, 0.25); border-radius:10px; color:#000000; font-weight:400" -->
 >Vektorgrafiken werden aus einfachen geometrischen Objekten (Kreise, Quadrate, Linien) zusammengesetzt. Randlinien und Flächen (Attribute Linientyp, Linienfarbe, Linienbreite) beschreiben die Objekte eindeutig.
 
 Übung
+-------------------------------
 
 [Lernstrecke Vektorgrafik](https://www.inf-schule.de/information/informationsdarstellungxml/darstellunginformation/fallstudie_grafiken/lernstrecke_svg/lernstrecke)
-</article>
 
 
 
