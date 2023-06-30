@@ -22,9 +22,11 @@ translation: Français translations/French.md
 
 # Einführung in Auszeichnungssprachen
 
+<!-- style="background-color:#50fa7b" -->
 > Eine Auszeichnungssprache (Markup Language) ist eine maschinenlesbare Sprache für die Gliederung und Formatierung von Texten und anderen Daten.
 
 **Beispiele**
+
 * SVG (Scalable Vector Graphics ) 
 * HTML (Hypertext Markup Language)
 * Markdown 
