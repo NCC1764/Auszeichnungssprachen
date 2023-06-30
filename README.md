@@ -1,16 +1,15 @@
 <!--
-author:   Your Name
+author:   Dirk Koehler
 
-email:    your@mail.org
+email:    koehler.di@gykl.lernsax.de
 
 version:  0.0.1
 
-language: en
+language: de
 
-narrator: US English Female
+narrator: DE Deutsch Male
 
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
+comment:  Einführung Auszeichnungssprachen Informatik Klasse 9
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
@@ -21,14 +20,15 @@ translation: Deutsch  translations/German.md
 translation: Français translations/French.md
 -->
 
-# Course Main Title
+# Einführung in Auszeichnungssprachen
 
-This is your **course** initialization stub.
+> Eine Auszeichnungssprache (Markup Language) ist eine maschinenlesbare Sprache für die Gliederung und Formatierung von Texten und anderen Daten.
 
-Please see the [Docs](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md)
-to find out what is possible in [LiaScript](https://liascript.github.io).
-
-If you want to use instant help in your Atom IDE, please type **lia** to see all available shortcuts.
+**Beispiele**
+- SVG (Scalable Vector Graphics ) 
+- HTML (Hypertext Markup Language)
+- Markdown 
+- LaTex
 
 ## Markdown
 
