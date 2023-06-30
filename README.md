@@ -22,7 +22,6 @@ translation: Deutsch  translations/German.md
 # Auszeichnungssprachen
 
 ## Einführung
-
 ### Definition Auszeichnungssprache
 
 <!-- style="background-color:rgba(57, 145, 147, 0.25); border-radius:10px; color:#000000; font-weight:600" -->
@@ -36,7 +35,6 @@ translation: Deutsch  translations/German.md
 * LaTex
 
 ## SVG (Scalable Vector Graphics )
-
 ### Definition Vektorgrafik
 
 <!-- style="background-color:rgba(57, 145, 147, 0.25); border-radius:10px; color:#000000; font-weight:600" -->
