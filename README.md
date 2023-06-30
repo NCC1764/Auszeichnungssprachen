@@ -18,11 +18,14 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 translation: Deutsch  translations/German.md
 
 translation: Français translations/French.md
+
+<!-- style="background-color:#944841; border-radius: 10px; color:#FFFFFF; font-weight: 600;" -->
+
 -->
 
 # Einführung in Auszeichnungssprachen
 
-<!-- style="background-color:#944841; border-radius: 5px; color:#FFFFFF; font-weight: 600;" -->
+<!-- style="border-style:solid; border-color:#944841; border-width:medium; border-radius:10px; color:#944841; font-weight:600;" -->
 > Eine Auszeichnungssprache (Markup Language) ist eine maschinenlesbare Sprache für die Gliederung und Formatierung von Texten und anderen Daten.
 
 **Beispiele**
