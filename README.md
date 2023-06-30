@@ -17,10 +17,6 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 translation: Deutsch  translations/German.md
 
-translation: Français translations/French.md
-
-<!-- style="background-color:#944841; border-radius: 10px; color:#FFFFFF; font-weight: 600;" -->
-
 -->
 
 # Einführung in Auszeichnungssprachen
