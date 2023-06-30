@@ -55,6 +55,24 @@ Definition Vektorgrafik
 
 ## HTML (Hypertext Markup Language)
 
+HTML-Grundgerüst
+----------------
+
+```html
+<!DOCTYPE html>
+<html>
+
+  <head>
+
+  </head>
+
+  <body>
+
+  </body>
+
+</html>
+```
+
 
 ## CSS (Cascading Style Sheets)
 
