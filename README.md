@@ -21,6 +21,8 @@ translation: Deutsch  translations/German.md
 
 # Auszeichnungssprachen
 
+![WordCloud](img/wordcloud-1.png)
+
 ## Einführung
 
 Definition Auszeichnungssprache
@@ -49,6 +51,9 @@ Definition Vektorgrafik
 -------------------------------
 
 [Lernstrecke Vektorgrafik](https://www.inf-schule.de/information/informationsdarstellungxml/darstellunginformation/fallstudie_grafiken/lernstrecke_svg/lernstrecke)
+
+## HTML (Hypertext Markup Language)
+
 
 
 
