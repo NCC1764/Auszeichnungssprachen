@@ -40,7 +40,12 @@ Beispiele
 * Markdown 
 * LaTex
 
-## SVG (Scalable Vector Graphics )
+## SVG 
+
+SVG (Scalable Vector Graphics )
+-------------------------------
+
+* Spezifikation zur Beschreibung zweidimensionaler Vektorgrafiken
 
 Definition Vektorgrafik
 -------------------------------
@@ -54,6 +59,11 @@ Definition Vektorgrafik
 [Lernstrecke Vektorgrafik](https://www.inf-schule.de/information/informationsdarstellungxml/darstellunginformation/fallstudie_grafiken/lernstrecke_svg/lernstrecke)
 
 ## HTML (Hypertext Markup Language)
+
+HTML (Hypertext Markup Language)
+--------------------------------
+
+* Textbasierte Auszeichnungssprache zur Strukturierung elektronischer Dokumente wie Texte mit Hyperlinks, Bildern und anderen Inhalten. 
 
 HTML-Grundgerüst
 ----------------
@@ -76,9 +86,12 @@ HTML-Grundgerüst
 
 ## CSS (Cascading Style Sheets)
 
+CSS (Cascading Style Sheets)
+----------------------------
 
+ * Ist eine Stylesheet-Sprache zur Gestaltung elektronischer Dokumente.
 
-
+## LiaScript Beispiel
 
 You can use common [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) syntax to create your course, such as:
 
