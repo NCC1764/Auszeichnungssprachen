@@ -54,11 +54,11 @@ Definition Vektorgrafik
 >Vektorgrafiken werden aus einfachen geometrischen Objekten (Kreise, Quadrate, Linien) zusammengesetzt. Randlinien und Flächen (Attribute Linientyp, Linienfarbe, Linienbreite) beschreiben die Objekte eindeutig.
 
 Übung
--------------------------------
+-----
 
 [Lernstrecke Vektorgrafik](https://www.inf-schule.de/information/informationsdarstellungxml/darstellunginformation/fallstudie_grafiken/lernstrecke_svg/lernstrecke)
 
-## HTML (Hypertext Markup Language)
+## HTML
 
 Hypertext Markup Language
 -------------------------
@@ -83,7 +83,7 @@ HTML-Grundgerüst
 </html>
 ```
 
-## CSS (Cascading Style Sheets)
+## CSS 
 
 Cascading Style Sheets
 ----------------------
