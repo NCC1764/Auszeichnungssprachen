@@ -42,13 +42,13 @@ Beispiele
 
 ## SVG 
 
-SVG (Scalable Vector Graphics )
--------------------------------
+Scalable Vector Graphics 
+------------------------
 
 * Spezifikation zur Beschreibung zweidimensionaler Vektorgrafiken
 
 Definition Vektorgrafik
--------------------------------
+------------------------
 
 <!-- style="background-color:rgba(57, 145, 147, 0.25); border-radius:10px; color:#000000; font-weight:400" -->
 >Vektorgrafiken werden aus einfachen geometrischen Objekten (Kreise, Quadrate, Linien) zusammengesetzt. Randlinien und Flächen (Attribute Linientyp, Linienfarbe, Linienbreite) beschreiben die Objekte eindeutig.
@@ -60,8 +60,8 @@ Definition Vektorgrafik
 
 ## HTML (Hypertext Markup Language)
 
-HTML (Hypertext Markup Language)
---------------------------------
+Hypertext Markup Language
+-------------------------
 
 * Textbasierte Auszeichnungssprache zur Strukturierung elektronischer Dokumente wie Texte mit Hyperlinks, Bildern und anderen Inhalten. 
 
@@ -83,11 +83,10 @@ HTML-Grundgerüst
 </html>
 ```
 
-
 ## CSS (Cascading Style Sheets)
 
-CSS (Cascading Style Sheets)
-----------------------------
+Cascading Style Sheets
+----------------------
 
  * Ist eine Stylesheet-Sprache zur Gestaltung elektronischer Dokumente.
 
