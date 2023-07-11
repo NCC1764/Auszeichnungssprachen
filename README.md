@@ -25,8 +25,8 @@ translation: Deutsch  translations/German.md
 
 ## Einführung
 
-Definition Auszeichnungssprache
--------------------------------
+Auszeichnungssprache
+--------------------
 
 <!-- style="background-color:rgba(57, 145, 147, 0.25); border-radius:10px; color:#000000; font-weight:400" -->
 > Eine Auszeichnungssprache (Markup Language) ist eine maschinenlesbare Sprache für die Gliederung und Formatierung von Texten und anderen Daten.
@@ -47,8 +47,8 @@ Scalable Vector Graphics
 
 * Spezifikation zur Beschreibung zweidimensionaler Vektorgrafiken
 
-Definition Vektorgrafik
-------------------------
+Vektorgrafik
+------------
 
 <!-- style="background-color:rgba(57, 145, 147, 0.25); border-radius:10px; color:#000000; font-weight:400" -->
 >Vektorgrafiken werden aus einfachen geometrischen Objekten (Kreise, Quadrate, Linien) zusammengesetzt. Randlinien und Flächen (Attribute Linientyp, Linienfarbe, Linienbreite) beschreiben die Objekte eindeutig.
